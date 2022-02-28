@@ -4,7 +4,7 @@ Projeto desenvolvido a partir de desafio proposto pela Jetform.
 
 ## 🚀 Objetivo
 
-Objetivo de fortalecer os fundamentos em ambas as linguagens para termos mais facilidade em aprendizados avançados no futuro.
+Objetivo de fortalecer os fundamentos  linguagem para ter mais facilidade em aprendizados avançados no futuro.
 
 ## 🛠️ Tecnologias utilizadas:
 
