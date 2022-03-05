@@ -24,7 +24,7 @@ function numTrue(a, b) {
 }
 
 function negativo() {
-  if (parseInt(in1.value) >= 0 || parseInt(in1.value) >= 0) {
+  if (parseInt(in1.value) >= 0 || parseInt(in2.value) >= 0) {
     return soma();
   } else {
     alert("Voçe digitou valores ivalidos");
